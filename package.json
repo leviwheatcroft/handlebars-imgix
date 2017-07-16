@@ -1,6 +1,6 @@
 {
   "name": "handlebars-imgix",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "handlebars helper to generate imgix urls",
   "main": "dist/index.js",
   "scripts": {
